@@ -261,11 +261,3 @@ MIT License - See LICENSE file for details.
 - Design system inspired by modern medical UI patterns
 
 ---
-
-## 📞 Support
-
-For issues or questions:
-- Open a GitHub issue
-- Email: support@synthera.com
-
----
