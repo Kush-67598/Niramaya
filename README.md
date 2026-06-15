@@ -1,6 +1,6 @@
 # Niramaya — Women's Hormonal Health Screening Platform
 
-🔗 **Live Demo:** https://hackathon-topaz-gamma.vercel.app
+🔗 **Live Demo:** https://niramaya-health.vercel.app.
 
 A comprehensive hormonal health screening web app that detects conditions like Hypothyroidism, Anemia, PCOS, and 21 more through symptom-based screening and optional lab report integration.
 
